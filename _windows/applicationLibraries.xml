@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="redux" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_redux@latest_dist_redux.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_unpkg.com_redux@latest_dist_redux.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
